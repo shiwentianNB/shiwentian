@@ -1,5 +1,5 @@
 public class Hellow{
 	public static void main(String [] args){
-		to master
+		remote cangku Hellow
 	}
 }
