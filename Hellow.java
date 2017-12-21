@@ -6,5 +6,6 @@ public class Hellow{
 		System.err.println(2);//
 		System.err.println(3);
 		System.err.println(666);
+		System.err.println(777);
 	}
 }
